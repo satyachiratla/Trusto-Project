@@ -292,4 +292,14 @@ a:hover {
   .header-btn-actions {
     display: none;
   }
+
+  #brand {
+    flex-direction: column;
+  }
+
+  #brand div {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+  }
 }
