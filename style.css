@@ -59,6 +59,7 @@ nav ul {
   display: flex;
   gap: 40px;
   align-items: center;
+  padding-right: 120px;
 }
 
 nav ul li {
